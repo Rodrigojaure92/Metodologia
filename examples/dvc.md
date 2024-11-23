@@ -8,7 +8,7 @@ En este documento se presenta una guía de uso de la librería **dvc** para real
 Esquema de pasos a seguir:
 
 1. Instalar dvc (en nuestro caso ya está instalado en el entorno de conda o pip). [Documentación](https://dvc.org/doc/install).
-2. Inicializar el repositorio a fin de gestionar las versiones de los archivos de datos:
+2. Inicializar el repositorio a fin de gestionar las versiones de los archivos de datos
 
     >[!NOTE]
     >En caso de obtener un error como el siguiente: "ERROR: unexpected error - module 'platformdirs' has no attribute 'site_cache_dir'"
