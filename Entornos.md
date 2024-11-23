@@ -12,7 +12,7 @@ Una vez clonado en forma local el repositorio template de la asignatura, se podr
     conda activate OCT2324    
     ~~~
 
-## LINUX/UNIX >> Pasos a seguir para generar el entorno de trabajo
+## LINUX/UNIX >> Pasos a seguir para generar el entorno de trabao
 
 Una vez clonado en forma local el repositorio template de la asignatura, se podrá optar por alguna de estas tres opciones para generar el entorno de librerías a utilizar:
 
@@ -30,4 +30,4 @@ Una vez clonado en forma local el repositorio template de la asignatura, se podr
     conda env create --name OCT2324 --file config/conda-linux.yaml
     conda activate OCT2324    
     ~~~
-
+ 

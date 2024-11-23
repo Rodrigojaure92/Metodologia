@@ -1,5 +1,5 @@
 @echo off
-@echo "Se crea el archivo de dependencias a instalar."
+@echo "Se crea el archivo de dependencias a instalar"
 echo jupyter >> config/requirements.txt
 echo pandas >> config/requirements.txt
 echo numpy >> config/requirements.txt
